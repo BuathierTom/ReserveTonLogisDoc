@@ -17,6 +17,8 @@ Bienvenue sur notre site de gestion de réservations de chambres d'hôte ! Ce gu
 ## Gestion des Réservations
 Le site vous permet de consulter la disponibilité des trois chambres d'hôtes. Vous pouvez réserver en fonction de vos préférences de dates, de la durée du séjour et du nombre de personnes.
 
+Les chambres présentes sur le site sont : **Les marguerites**, **Les Primevères** et **Les Oyats**.
+
 ## Tarification Dynamique
 Les prix des chambres varient en fonction de la période, du nombre de personnes et de la chambre choisie. Vous pouvez voir le tarif en temps réel lors de la réservation.
 

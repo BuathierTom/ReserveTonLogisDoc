@@ -2,5 +2,4 @@ site_name: ReserveTonLogis
 nav:
   - Guide de l'Utilisateur - Site de Réservation de Chambres d'Hôte: index.md
 
-
 theme: readthedocs
