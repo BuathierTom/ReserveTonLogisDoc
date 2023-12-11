@@ -37,7 +37,7 @@ Installation de pandoc : https://pandoc.org/installing.html
 
 Installation de MikTex : https://miktex.org/download
 
-Déplacez vous dans le fichier /docs
+Déplacez vous dans le dossier /docs
 ```bash
   cd docs
 ```
