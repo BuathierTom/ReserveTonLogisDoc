@@ -1,6 +1,6 @@
 site_name: ReserveTonLogis
 nav:
-  - Gestion des Réservations: ReserveTonLogisDoc/#gestion-des-réservations
+  - Gestion des Réservations: /#gestion-des-réservations
   - Tarification Dynamique: ReserveTonLogisDoc/#tarification-dynamique
   - Galerie Photos: ReserveTonLogisDoc/#galerie-photos
   - Activités Proposées: ReserveTonLogisDoc/#activités-proposées
