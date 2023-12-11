@@ -1,14 +1,14 @@
 site_name: ReserveTonLogis
 nav:
-  - Gestion des Réservations: /#gestion-des-réservations
-  - Tarification Dynamique: /#tarification-dynamique
-  - Galerie Photos: /#galerie-photos
-  - Activités Proposées: /#activités-proposées
-  - Météo Locale: /#météo-locale
-  - Itinéraires et Bornes Électriques: /#itinéraires-et-bornes-électriques
-  - Calendrier de Réservation: /#calendrier-de-réservation
-  - Connexion/Inscription: /#connexioninscription
-  - Contacter le Propriétaire: /#contacter-le-propriétaire
-  - Données Personnelles: /#données-personnelles
+  - Gestion des Réservations: ReserveTonLogisDoc/#gestion-des-réservations
+  - Tarification Dynamique: ReserveTonLogisDoc/#tarification-dynamique
+  - Galerie Photos: ReserveTonLogisDoc/#galerie-photos
+  - Activités Proposées: ReserveTonLogisDoc/#activités-proposées
+  - Météo Locale: ReserveTonLogisDoc/#météo-locale
+  - Itinéraires et Bornes Électriques: ReserveTonLogisDoc/#itinéraires-et-bornes-électriques
+  - Calendrier de Réservation: ReserveTonLogisDoc/#calendrier-de-réservation
+  - Connexion/Inscription: ReserveTonLogisDoc/#connexioninscription
+  - Contacter le Propriétaire: ReserveTonLogisDoc/#contacter-le-propriétaire
+  - Données Personnelles: ReserveTonLogisDoc/#données-personnelles
 
 theme: readthedocs
