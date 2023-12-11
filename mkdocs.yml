@@ -1,14 +1,6 @@
 site_name: ReserveTonLogis
 nav:
-  - Gestion des Réservations: /#gestion-des-réservations
-  - Tarification Dynamique: /#tarification-dynamique
-  - Galerie Photos: /#galerie-photos
-  - Activités Proposées: /#activités-proposées
-  - Météo Locale: /#météo-locale
-  - Itinéraires et Bornes Électriques: /#itinéraires-et-bornes-électriques
-  - Calendrier de Réservation: /#calendrier-de-réservation
-  - Connexion/Inscription: /#connexioninscription
-  - Contacter le Propriétaire: /#contacter-le-propriétaire
-  - Données Personnelles: /#données-personnelles
+  - Guide de l'Utilisateur - Site de Réservation de Chambres d'Hôte: index.md
+
 
 theme: readthedocs
