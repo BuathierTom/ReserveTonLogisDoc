@@ -1,8 +1,9 @@
 
 # ReserveTonLogisDoc
 
-Documentation utilisateur markdown heberger sur ReadTheDoc
-## Deployement local
+Documentation utilisateur markdown heberger sur github-pages avec mkdocs
+
+## Déploiement local
 
 Pour déployer le serveur en local : 
 
@@ -22,24 +23,36 @@ Et lancer le server sur : http://127.0.0.1:8000/
   mkdocs serve
 ```
 
+## Déploiement gh-pages
 
-## Pdf Generator
+Pour déployer le serveur sur github pages : 
+
+```bash
+  mkdocs gh-deploy
+```
+
+## Générer le PDF
 
 Installation de pandoc : https://pandoc.org/installing.html
 
 Installation de MikTex : https://miktex.org/download
 
+Déplacez vous dans le fichier /docs
+```bash
+  cd docs
+```
+
 Commande pour générer les pdf en fonction du fichier md : 
 ```bash
-pandoc -s votre_fichier.md -o votre_fichier.pdf
+  pandoc -s votre_fichier.md -o votre_fichier.pdf
 ```
 
 ## Documentation
 
-[Documentation ReserveTonLogisDoc](https://buathiertom.github.io/ReserveTonLogisDoc)
+Lien vers la [documentation de ReserveTonLogis](https://buathiertom.github.io/ReserveTonLogisDoc)
 
 
-## Authors
+## Auteurs
 
 - [@BuathierTom](https://www.github.com/BuathierTom)
 - [@Mayel16](https://www.github.com/Mayel16)
