@@ -56,4 +56,4 @@ Modifiez vos informations personnelles en cas de besoin, tout en respectant les 
 
 ---
 
-Nous espérons que votre expérience sur notre site sera agréable et que ces fonctionnalités rendront votre séjour chez nous aussi simple que possible. Si vous avez des questions supplémentaires, n'hésitez pas à contacter notre équipe de support. Bon séjour !
+Nous espérons que votre expérience sur notre site sera agréable et que ces fonctionnalités rendront votre séjour chez nous aussi simple que possible. Si vous avez des questions supplémentaires, n'hésitez pas à contacter notre équipe de support. Bon séjour ! 
